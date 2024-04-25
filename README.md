@@ -28,7 +28,7 @@ nmap -p- -sV {direccion-ip}
 ```
 
 **Apertura de Socket**
-Utilizado para abrir el puerto indicado y testear si es detectado por el nmap
+- Utilizado para abrir el puerto indicado y testear si es detectado por el nmap
 ```
 python3 socketOpening.py {puerto}
 ```
